@@ -1,0 +1,26 @@
+[
+  {
+    "image_url": "https://listcarbrands.com/wp-content/uploads/2017/10/Tata-Motors-Logo-768x570.png",
+    "title": "Tata Motors",
+    "price": "₹127.10",
+    "rate": "5.90(4.87%)"
+  },
+  {
+    "image_url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2018-10/23/full/1540299206-3916.jpg&width=1200",
+    "title": "Bajaj finance",
+    "price": "₹3642.90",
+    "rate": "150.85(4.32%)"
+  },
+  {
+    "image_url": "https://pbs.twimg.com/media/DokLPnQU4AAE90Z.jpg",
+    "title": "Avenue Supermarts",
+    "price": "₹2642.90",
+    "rate": "90.85(4.04%)"
+  },
+  {
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Havells_Logo.svg/1200px-Havells_Logo.svg.png",
+    "title": "Havells India",
+    "price": "₹663.90",
+    "rate": "25.60(4.02%)"
+  }
+]

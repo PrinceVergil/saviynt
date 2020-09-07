@@ -1,0 +1,26 @@
+[
+  {
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/NHPC_Logo.svg/1200px-NHPC_Logo.svg.png",
+    "title": "HNPC",
+    "price": "₹22.25",
+    "rate": "-0.50(2.20%)"
+  },
+  {
+    "image_url": "https://media-exp1.licdn.com/dms/image/C510BAQFVH3B-AVhjng/company-logo_200_200/0?e=2159024400&v=beta&t=jEXvlqF0OsQSsCBeKiruxy6Juf-tuVfy6t8dMtLwgco",
+    "title": "Page Industries",
+    "price": "₹20,392.50",
+    "rate": "-458.25(2.20%)"
+  },
+  {
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/GAIL_Logo.svg/250px-GAIL_Logo.svg.png",
+    "title": "GAIL India",
+    "price": "₹99.70",
+    "rate": "-1.90(1.87%)"
+  },
+  {
+    "image_url": "https://realtyplusmag.com/wp-content/uploads/2018/06/Shree-Cement-announces-investment-plans-allied-750x317.jpg",
+    "title": "Shree Cement",
+    "price": "₹21,810.75",
+    "rate": "-400.00(1.80%)"
+  }
+]
